@@ -5,7 +5,7 @@ import { DiReact } from '@react-icons/all-files/di/DiReact';
 import { SiRedux } from '@react-icons/all-files/si/SiRedux';
 import { DiCss3 } from "@react-icons/all-files/di/DiCss3";
 import { DiHtml5 } from "@react-icons/all-files/di/DiHtml5";
-import { SiTailwindcss } from "@react-icons/all-files/si/Sitailwindcss";
+import { SiTailwindcss } from "react-icons/si";
 import { SiVercel } from "react-icons/si";
 import { SiRender } from "react-icons/si";
 import { SiMongodb } from "react-icons/si";
