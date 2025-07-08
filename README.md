@@ -2,7 +2,7 @@
 
 A clean, responsive, and modern personal portfolio website built using **React** and **SCSS** to showcase my skills, projects, blogs, and contact information. This site reflects my journey as a **Full-Stack Web Developer** passionate about building scalable and user-centric digital experiences.
 
-[Live Demo 🔗](https://portfolio-git-main-tushar-kumars-projects-f26e856d.vercel.app/resume)
+[Live Demo 🔗](https://portfolio-git-main-tushar-kumars-projects-f26e856d.vercel.app/)
 
 ---
 
