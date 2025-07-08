@@ -51,7 +51,7 @@ const IntroSection = () => {
       </div>
 
       <div className={s.introSocial}>
-        <h1>FIND ME ON</h1>
+        <h1>Let's Connect</h1>
         <p>
           Feel free to <span className={s.purple}>connect </span>with
           me
