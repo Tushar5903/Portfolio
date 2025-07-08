@@ -30,7 +30,7 @@ const data = [
         'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1751911530/Screenshot_2025-07-07_233152_ohqmvf.png',
     },
     links: {
-      site: 'http://www.visionrealize.com/',
+      site: 'https://portfolio-git-main-tushar-kumars-projects-f26e856d.vercel.app/',
     },
     technologies: [
       '#React',
