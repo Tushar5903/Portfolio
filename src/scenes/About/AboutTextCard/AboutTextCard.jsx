@@ -4,7 +4,7 @@ const AboutTextCard = () => {
   return (
     <div className={s.card}>
       <p style={{ textAlign: 'justify' }}>
-        Hi Everyone, I am{' '}
+        Hi, My name's {' '}
         <span className={s.purple}>Tushar Kumar, </span>
 
         <br />
