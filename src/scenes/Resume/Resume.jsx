@@ -11,7 +11,7 @@ import 'react-pdf/dist/esm/Page/AnnotationLayer.css';
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
 
 const resumeLink =
-  'https://raw.githubusercontent.com/Tushar5903/Resume/main/Tushar_Resume.pdf';
+  'https://raw.githubusercontent.com/Tushar5903/RESUME/main/Tushar_Resume.pdf';
 
 const Resume = () => {
   const pdfWrapper = useRef(null);
