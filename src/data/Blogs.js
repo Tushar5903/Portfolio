@@ -19,6 +19,16 @@ const data = [
       site: 'https://www.linkedin.com/pulse/building-forms-react-modern-guide-developers-tushar-kumar-sbolc/?trackingId=flDmlA%2B4OSiLZ5OCT9d0lQ%3D%3D',
     },
   },
+  {
+    id: '3',
+    title: 'How much JavaScript is required to get started with reactJS?',
+    image: {
+      src: 'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1752737440/Screenshot_2025-07-09_123906_gy0rmx.png',
+    },
+    links: {
+      site: 'https://www.linkedin.com/pulse/how-much-javascript-required-get-started-reactjs-tushar-kumar-4burc/?trackingId=7ZcKHAm3Z%2BlHUxJggYx0AA%3D%3D',
+    },
+  },
     
 ];
 
