@@ -28,7 +28,6 @@ const ModalBlogCard = () => {
           effect="blur"
           width="100%"
           wrapperClassName={s.image}
-          placeholderSrc={image.placeholderSrc}
         />
 
         <div className={s.cardBody}>
