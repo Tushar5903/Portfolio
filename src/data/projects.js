@@ -30,7 +30,7 @@ const data = [
         'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1751911530/Screenshot_2025-07-07_233152_ohqmvf.png',
     },
     links: {
-      site: 'https://portfolio-git-main-tushar-kumars-projects-f26e856d.vercel.app/',
+      site: 'http://www.visionrealize.com/',
     },
     technologies: [
       '#React',
@@ -97,6 +97,27 @@ const data = [
   },
   {
     id: '5',
+    title: 'YC_Directory',
+    description:
+      'YC Directory is a modern web-based platform that showcases Y Combinator startups using a sleek, responsive UI. Built with Next.js 14, Tailwind CSS, and Sanity.io, it features dynamic listings, CMS-powered content, and markdown support. Designed as a scalable full-stack demo, it highlights real-time data integration, modular components, and clean architecture ideal for startup showcases, investment tools, or founder networks.',
+    image: {
+      src: 'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1752736660/Screenshot_2025-07-17_124638_imrfoh.png',
+      placeholderSrc:
+        'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1752736660/Screenshot_2025-07-17_124638_imrfoh.png',
+    },
+    links: {
+      site: 'https://yc-directory-weld-five.vercel.app/',
+    },
+    technologies: [
+      '#Next',
+      '#react',
+      '#Sanity',
+      '#Tailwind',
+      'TypeScript',
+    ],
+  },
+  {
+    id: '6',
     title: 'Ashima E-commerce Website',
     description:
       'Built a responsive e-commerce website with essential pages like Home, Shop, Blog, Cart, and Sign-in. Focused on clean UI, smooth navigation, and fast performance to enhance user experience. Designed for scalability and usability, the site delivers a seamless and engaging shopping experience across all devices.',
@@ -120,7 +141,7 @@ const data = [
     ],
   },
   {
-    id: '6',
+    id: '7',
     title: 'Blog Website',
     description:
       'This React-based blog website displays posts from an external API with pagination, category, and tag filtering. It supports light and dark themes using Tailwind CSS and `use-local-storage`. Context API manages global state, enhancing performance and user experience across components like BlogDetails, Pagination, and ThemeSwitcher for seamless navigation and reading.',
