@@ -29,6 +29,26 @@ const data = [
       site: 'https://www.linkedin.com/pulse/how-much-javascript-required-get-started-reactjs-tushar-kumar-4burc/?trackingId=7ZcKHAm3Z%2BlHUxJggYx0AA%3D%3D',
     },
   },
+  {
+    id: '4',
+    title: 'Understanding REDUX & REACT REDUX State Management in React',
+    image: {
+      src: 'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1754579897/Screenshot_2025-07-22_133633_ee7jga.png',
+    },
+    links: {
+      site: 'https://www.linkedin.com/pulse/understanding-redux-react-state-management-tushar-kumar-fn6nc/?trackingId=5gsQWGyQyeEvaOPx1Gh4uA%3D%3D',
+    },
+  },
+    {
+    id: '5',
+    title: 'Mastering React Hooks',
+    image: {
+      src: 'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1754580035/Screenshot_2025-08-02_181138_bjokpt.png',
+    },
+    links: {
+      site: 'https://www.linkedin.com/pulse/mastering-react-hooks-tushar-kumar-rerzc/?trackingId=%2Bisi64SgqJatOpWR%2BS4ReA%3D%3D',
+    },
+  },
     
 ];
 
