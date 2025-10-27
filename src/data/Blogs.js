@@ -1,26 +1,58 @@
 const data = [
   {
+    
     id: '1',
+    title: 'Mastering Object-Oriented Programming in Java',
+    image: {
+      src: 'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1761557946/Screenshot_2025-10-26_172533_il2aly.png',
+    },
+    links: {
+      site: 'https://www.linkedin.com/pulse/mastering-object-oriented-programming-java-tushar-kumar-9mp9c/?trackingId=lNHL0f7qbZpAKCK3k2l5qA%3D%3D',
+    },
+  },{
+    
+    id: '2',
+    title: 'Fetching Data from APIs in React',
+    image: {
+      src: 'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1761557904/Screenshot_2025-10-27_150812_omb4en.png',
+    },
+    links: {
+      site: 'https://www.linkedin.com/pulse/fetching-data-from-apis-react-tushar-kumar-wremc/?trackingId=6JosYZgKec1QLBh5ZFx%2Bvw%3D%3D',
+    },
+  },{
+    
+    id: '3',
+    title: 'The Easy Way to Build Backends with Express.js',
+    image: {
+      src: 'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1761557797/Screenshot_2025-10-27_150624_weuwb6.png',
+    },
+    links: {
+      site: 'https://www.linkedin.com/pulse/easy-way-build-backends-expressjs-tushar-kumar-wbqtc/?trackingId=hen%2B3WXqNo5PahCVoXNo4Q%3D%3D',
+    },
+  },
+  {
+    
+    id: '4',
     title: 'Swiper Element Guide for React',
     image: {
-      src: 'https://media.licdn.com/dms/image/v2/D5612AQFPrOfIYrJMtw/article-cover_image-shrink_720_1280/B56ZfjebpBH8AI-/0/1751868103480?e=1757548800&v=beta&t=iQWDEfZgZTgqVzssUffdthy6ASsHGQSBB4d7WhqnSDQ',
+      src: 'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1761557255/Screenshot_2025-10-27_145709_dhcd2w.png',
     },
     links: {
-      site: 'https://www.linkedin.com/pulse/swiper-element-guide-react-tushar-kumar-hnq8c/?trackingId=hBVjhHKTXUFZWV8XK4zBTw%3D%3D',
+      site: 'https://www.linkedin.com/pulse/swiper-element-guide-react-tushar-kumar-hnq8c/?trackingId=rEQIESuK7XOJ0TyVHys9yw%3D%3D',
     },
   },
   {
-    id: '2',
+    id: '5',
     title: 'Building Forms in React: A Modern Guide for Developers',
     image: {
-      src: 'https://media.licdn.com/dms/image/v2/D5612AQFV4hnD-vkZ0w/article-cover_image-shrink_720_1280/B56Ze7OgkoGoAI-/0/1751192840795?e=1757548800&v=beta&t=5pX_fJFSwXUJReqzYs8YHzLTSzjMXAtakKj_qiFvty8',
+      src: 'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1761557613/Screenshot_2025-10-27_150319_qzbwuo.png',
     },
     links: {
-      site: 'https://www.linkedin.com/pulse/building-forms-react-modern-guide-developers-tushar-kumar-sbolc/?trackingId=flDmlA%2B4OSiLZ5OCT9d0lQ%3D%3D',
+      site: 'https://www.linkedin.com/pulse/building-forms-react-modern-guide-developers-tushar-kumar-sbolc/?trackingId=yUalrz5BEAakp5Nr9LsesQ%3D%3D',
     },
   },
   {
-    id: '3',
+    id: '6',
     title: 'How much JavaScript is required to get started with reactJS?',
     image: {
       src: 'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1752737440/Screenshot_2025-07-09_123906_gy0rmx.png',
@@ -30,7 +62,7 @@ const data = [
     },
   },
   {
-    id: '4',
+    id: '7',
     title: 'Understanding REDUX & REACT REDUX State Management in React',
     image: {
       src: 'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1754579897/Screenshot_2025-07-22_133633_ee7jga.png',
@@ -40,7 +72,7 @@ const data = [
     },
   },
     {
-    id: '5',
+    id: '8',
     title: 'Mastering React Hooks',
     image: {
       src: 'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1754580035/Screenshot_2025-08-02_181138_bjokpt.png',
