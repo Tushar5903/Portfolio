@@ -1,6 +1,7 @@
 import { BsTerminalFill } from '@react-icons/all-files/bs/BsTerminalFill';
 import { DiGit } from '@react-icons/all-files/di/DiGit';
 import { DiJavascript1 } from '@react-icons/all-files/di/DiJavascript1';
+import { DiJava } from "react-icons/di";
 import { DiReact } from '@react-icons/all-files/di/DiReact';
 import { SiRedux } from '@react-icons/all-files/si/SiRedux';
 import { DiCss3 } from "@react-icons/all-files/di/DiCss3";
@@ -8,13 +9,9 @@ import { DiHtml5 } from "@react-icons/all-files/di/DiHtml5";
 import { SiVercel } from "react-icons/si";
 import { SiRender } from "react-icons/si";
 import { SiMongodb } from "react-icons/si";
-import { SiExpress } from "react-icons/si";
 import { FaNode } from "react-icons/fa6";
 import { DiGithubBadge } from "react-icons/di";
 import { SiTailwindcss } from "react-icons/si";
-import { RiNextjsFill } from "react-icons/ri";
-import { SiTypescript } from "react-icons/si";
-import { SiSanity } from "react-icons/si";
 import s from './TechSkills.module.scss';
 
 const TechSkills = () => {
@@ -77,34 +74,15 @@ const TechSkills = () => {
         <span className={s.text}>Mongodb</span>
       </li>
       <li className={s.techIcon}>
-        <SiExpress />
-        <br/>
-        <span className={s.text}>Express</span>
-      </li>
-      <li className={s.techIcon}>
-        <FaNode />
-        <br/>
-        <span className={s.text}>Node</span>
-      </li>
-      <li className={s.techIcon}>
         <DiGithubBadge  />
         <br/>
         <span className={s.text}>GitHub</span>
       </li>
+      
       <li className={s.techIcon}>
-        <RiNextjsFill  />
+        <DiJava /> 
         <br/>
-        <span className={s.text}>Next.js</span>
-      </li>
-      <li className={s.techIcon}>
-        <SiTypescript  />
-        <br/>
-        <span className={s.text}>TypeScript</span>
-      </li>
-      <li className={s.techIcon}>
-        <SiSanity  />
-        <br/>
-        <span className={s.text}>Sanity</span>
+        <span className={s.text}>Java</span>
       </li>
     </ul>
   );
