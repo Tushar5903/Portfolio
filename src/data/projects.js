@@ -1,16 +1,16 @@
 const data = [
   {
     id: '1',
-    title: 'Vision Realize',
+    title: 'Job Portal',
     description:
-      'I developed a fully responsive website using HTML, CSS, and JavaScript, with a strong emphasis on smooth navigation, custom UI features, and performance optimization. The project was tailored to enhance the user experience for a strategic operations professional based in the USA, ensuring both functionality and aesthetics were aligned with their professional needs.',
+      'Job Portal is a full-stack web application that connects candidates, employers, and admins on a single platform. Candidates can search and filter jobs by skills, location, salary, and experience, then apply directly with resume uploads. Employers can post listings, manage company profiles, and review applications. Admins oversee the entire ecosystem through a dedicated dashboard with system-wide stats. Authentication is JWT-based with role-specific access throughout. The standout feature is an AI-powered chatbot built on Groq''s LLaMA 3.1 model, helping users navigate the portal in real time. The stack includes Node.js, Express, MongoDB, React, Cloudinary, and Nodemailer.',
     image: {
-      src: 'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1751878746/Screenshot_2025-07-07_142728_u93192.png',
+      src: 'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1778681321/Screenshot_2026-05-13_193721_srymdh.png',
       placeholderSrc:
-        'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1751878746/Screenshot_2025-07-07_142728_u93192.png',
+        'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1778681321/Screenshot_2026-05-13_193721_srymdh.png',
     },
     links: {
-      site: 'http://www.visionrealize.com/',
+      site: 'https://job-portal-inky-eta.vercel.app/',
     },
     technologies: [
       '#HTML',
@@ -161,6 +161,26 @@ const data = [
       '#React Icons',
       '#React Context API ',
       '#JavaScript ',
+    ],
+  },
+    {
+    id: '8',
+    title: 'Vision Realize',
+    description:
+      'I developed a fully responsive website using HTML, CSS, and JavaScript, with a strong emphasis on smooth navigation, custom UI features, and performance optimization. The project was tailored to enhance the user experience for a strategic operations professional based in the USA, ensuring both functionality and aesthetics were aligned with their professional needs.',
+    image: {
+      src: 'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1751878746/Screenshot_2025-07-07_142728_u93192.png',
+      placeholderSrc:
+        'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1751878746/Screenshot_2025-07-07_142728_u93192.png',
+    },
+    links: {
+      site: 'http://www.visionrealize.com/',
+    },
+    technologies: [
+      '#HTML',
+      '#CSS',
+      '#Java Script',
+      '#Bootstrap',
     ],
   },
   
