@@ -3,7 +3,7 @@ const data = [
     id: '1',
     title: 'Job Portal',
     description:
-      'Job Portal is a full-stack web application that connects candidates, employers, and admins on a single platform. Candidates can search and filter jobs by skills, location, salary, and experience, then apply directly with resume uploads. Employers can post listings, manage company profiles, and review applications. Admins oversee the entire ecosystem through a dedicated dashboard with system-wide stats. Authentication is JWT-based with role-specific access throughout. The standout feature is an AI-powered chatbot built on Groq''s LLaMA 3.1 model, helping users navigate the portal in real time. The stack includes Node.js, Express, MongoDB, React, Cloudinary, and Nodemailer.',
+      'Job Portal is a full-stack web application that connects candidates, employers, and admins on a single platform. Candidates can search and filter jobs by skills, location, salary, and experience, then apply directly with resume uploads. Employers can post listings, manage company profiles, and review applications. Admins oversee the entire ecosystem through a dedicated dashboard with system-wide stats. Authentication is JWT-based with role-specific access throughout. The standout feature is an AI-powered chatbot built on Groqs, helping users navigate the portal in real time. The stack includes Node.js, Express, MongoDB, React, Cloudinary, and Nodemailer.',
     image: {
       src: 'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1778681321/Screenshot_2026-05-13_193721_srymdh.png',
       placeholderSrc:
