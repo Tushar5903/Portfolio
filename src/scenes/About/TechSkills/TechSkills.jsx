@@ -117,7 +117,7 @@ const TechSkills = () => {
       <li className={s.techIcon}>
         <SiPostman />
         <br/>
-        <span className={s.text}>GitHub</span>
+        <span className={s.text}>Postman</span>
       </li>
     </ul>
   );
