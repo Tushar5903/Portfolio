@@ -3,6 +3,18 @@ const data = [
 {
 
 id: '1',
+title: 'Spring Boot: The Way I Actually Learned It',
+image: {
+src: 'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1785932076/ChatGPT_Image_Aug_4_2026_03_07_11_PM_m6fj3t.png',
+},
+links: {
+site:
+'https://www.linkedin.com/posts/tusharkumar0509_springboot-java-backend-ugcPost-7490340871817756672-9gZT/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpiTVoBimioVT9eJTEnLnLGLqZRtmqifMQ',
+},
+},
+{
+
+id: '2',
 title: 'Java Multithreading & Concurrency — A Complete Guide',
 image: {
 src: 'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1782646154/Screenshot_2026-06-28_165817_dnvov9.png',
@@ -12,9 +24,9 @@ site:
 'https://www.linkedin.com/posts/tusharkumar0509_java-multithreading-concurrency-ugcPost-7454202994180423680-STpR/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADpiTVoBimioVT9eJTEnLnLGLqZRtmqifMQ',
 },
 },
-  {
+{
 
-id: '2',
+id: '3',
 title: 'Mastering the Java Collections Framework: A Deep Dive into Logic, Hierarchy, and Performance',
 image: {
 src: 'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1774529312/Screenshot_2026-03-26_181821_icdxud.png',
@@ -26,7 +38,7 @@ site:
 },
 {
 
-id: '3',
+id: '4',
 title: 'Why Your Java Code Needs Better Exception Handling',
 image: {
 src: 'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1774528909/Screenshot_2026-03-26_181047_h6v3bb.png',
@@ -38,7 +50,7 @@ site:
 },
 {
 
-id: '4',
+id: '5',
 title: 'Mastering Object-Oriented Programming in Java',
 image: {
 src: 'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1761557946/Screenshot_2025-10-26_172533_il2aly.png',
@@ -47,9 +59,10 @@ links: {
 site:
 'https://www.linkedin.com/pulse/mastering-object-oriented-programming-java-tushar-kumar-9mp9c/?trackingId=lNHL0f7qbZpAKCK3k2l5qA%3D%3D',
 },
-},{
-
-id: '5',
+},
+{
+  
+id: '6',
 title: 'Fetching Data from APIs in React',
 image: {
 src: 'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1761557904/Screenshot_2025-10-27_150812_omb4en.png',
@@ -58,9 +71,10 @@ links: {
 site:
 'https://www.linkedin.com/pulse/fetching-data-from-apis-react-tushar-kumar-wremc/?trackingId=6JosYZgKec1QLBh5ZFx%2Bvw%3D%3D',
 },
-},{
+},
+{
 
-id: '6',
+id: '7',
 title: 'The Easy Way to Build Backends with Express.js',
 image: {
 src: 'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1761557797/Screenshot_2025-10-27_150624_weuwb6.png',
@@ -72,7 +86,7 @@ site:
 },
 {
 
-id: '7',
+id: '8',
 title: 'Swiper Element Guide for React',
 image: {
 src: 'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1761557255/Screenshot_2025-10-27_145709_dhcd2w.png',
@@ -83,7 +97,7 @@ site:
 },
 },
 {
-id: '8',
+id: '9',
 title: 'Building Forms in React: A Modern Guide for Developers',
 image: {
 src: 'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1761557613/Screenshot_2025-10-27_150319_qzbwuo.png',
@@ -94,7 +108,7 @@ site:
 },
 },
 {
-id: '9',
+id: '10',
 title: 'How much JavaScript is required to get started with reactJS?',
 image: {
 src: 'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1752737440/Screenshot_2025-07-09_123906_gy0rmx.png',
@@ -105,7 +119,7 @@ site:
 },
 },
 {
-id: '10',
+id: '11',
 title: 'Understanding REDUX & REACT REDUX State Management in React',
 image: {
 src: 'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1754579897/Screenshot_2025-07-22_133633_ee7jga.png',
@@ -116,7 +130,7 @@ site:
 },
 },
 {
-id: '11',
+id: '12',
 title: 'Mastering React Hooks',
 image: {
 src: 'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1754580035/Screenshot_2025-08-02_181138_bjokpt.png',
