@@ -3,6 +3,28 @@ const data = [
     id: '1',
     title: 'Pet-Saathi',
     description:
+      'A full-stack story publishing platform built with React, Spring Boot, and MySQL. Users can discover, review, and track stories, while writers can create and publish chapters. The platform includes JWT authentication, OTP verification, role-based access, Cloudinary uploads, caching, rate limiting, and email password reset, with production deployment on Vercel, Render, and Aiven.',
+    image: {
+      src: 'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1788510225/Screenshot_2026-09-04_135031_tm0mwl.png',
+      placeholderSrc:
+        'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1788510225/Screenshot_2026-09-04_135031_tm0mwl.png',
+    },
+    links: {
+      site: 'https://story-verse-mu.vercel.app/',
+    },
+    technologies: [
+      '#HTML',
+      '#CSS',
+      '#Java Script',
+      '#MySql',
+      '#Spring Boot',
+      '#Hibernate',
+      '#Java',
+    ],
+  },{
+    id: '2',
+    title: 'Pet-Saathi',
+    description:
       'Pet Saathi is a full-stack pet care management platform built using React, Node.js, Express.js, and MongoDB. It enables pet owners to manage pet profiles, track vaccination records, receive automated vaccine reminders, access nutrition and first-aid information, and use an AI-powered pet care assistant. The platform also features QR-based public pet profiles for easy pet identification and secure JWT-based authentication, providing a comprehensive solution for modern pet healthcare and management.',
     image: {
       src: 'https://res.cloudinary.com/dyaz7lhkb/image/upload/v1779989089/Screenshot_2026-05-28_224626_i27ira.png',
@@ -23,7 +45,7 @@ const data = [
     ],
   },
   {
-    id: '2',
+    id: '3',
     title: 'Job Portal',
     description:
       'Job Portal is a full-stack web application that connects candidates, employers, and admins on a single platform. Candidates can search and filter jobs by skills, location, salary, and experience, then apply directly with resume uploads. Employers can post listings, manage company profiles, and review applications. Admins oversee the entire ecosystem through a dedicated dashboard with system-wide stats. Authentication is JWT-based with role-specific access throughout. The standout feature is an AI-powered chatbot built on Groqs, helping users navigate the portal in real time. The stack includes Node.js, Express, MongoDB, React, Cloudinary, and Nodemailer.',
@@ -47,7 +69,7 @@ const data = [
     ],
   },
   {
-    id: '3',
+    id: '4',
     title: 'Portfolio',
     description:
       'A modern portfolio website showcasing my projects, skills, and resume with an interactive UI. Built using React, it features smooth navigation, PDF rendering, and responsive design for an optimal user experience across all devices.',
@@ -70,7 +92,7 @@ const data = [
     ],
   },
   {
-    id: '4',
+    id: '5',
     title: 'StudyNotion Ed-Tech Platform (MERN App)',
     description:
       'StudyNotion is a comprehensive ed-tech platform designed to offer an interactive and accessible learning experience for students while empowering instructors to share their expertise globally. It features a robust front-end and back-end architecture, well-structured APIs, scalable deployment, and thorough testing. The platform supports immersive learning and is built with future enhancements in mind to continuously improve user experience and functionality.',
@@ -100,7 +122,7 @@ const data = [
     ],
   },
   {
-    id: '5',
+    id: '6',
     title: 'DVoting',
     description:
       'dVoting is a decentralized voting system built on the Ethereum blockchain. Admins create and manage elections, while users register as voters by connecting their wallets. After admin approval, eligible voters can securely cast their votes. Once the election ends, the system displays tamper-proof results and ensuring transparency throughout the voting process.',
@@ -123,7 +145,7 @@ const data = [
     ],
   },
   {
-    id: '6',
+    id: '7',
     title: 'YC_Directory',
     description:
       'YC Directory is a modern web-based platform that showcases Y Combinator startups using a sleek, responsive UI. Built with Next.js 14, Tailwind CSS, and Sanity.io, it features dynamic listings, CMS-powered content, and markdown support. Designed as a scalable full-stack demo, it highlights real-time data integration, modular components, and clean architecture ideal for startup showcases, investment tools, or founder networks.',
@@ -144,7 +166,7 @@ const data = [
     ],
   },
   {
-    id: '7',
+    id: '8',
     title: 'Ashima E-commerce Website',
     description:
       'Built a responsive e-commerce website with essential pages like Home, Shop, Blog, Cart, and Sign-in. Focused on clean UI, smooth navigation, and fast performance to enhance user experience. Designed for scalability and usability, the site delivers a seamless and engaging shopping experience across all devices.',
@@ -168,7 +190,7 @@ const data = [
     ],
   },
   {
-    id: '8',
+    id: '9',
     title: 'Blog Website',
     description:
       'This React-based blog website displays posts from an external API with pagination, category, and tag filtering. It supports light and dark themes using Tailwind CSS and `use-local-storage`. Context API manages global state, enhancing performance and user experience across components like BlogDetails, Pagination, and ThemeSwitcher for seamless navigation and reading.',
@@ -191,7 +213,7 @@ const data = [
     ],
   },
     {
-    id: '9',
+    id: '10',
     title: 'Vision Realize',
     description:
       'I developed a fully responsive website using HTML, CSS, and JavaScript, with a strong emphasis on smooth navigation, custom UI features, and performance optimization. The project was tailored to enhance the user experience for a strategic operations professional based in the USA, ensuring both functionality and aesthetics were aligned with their professional needs.',
