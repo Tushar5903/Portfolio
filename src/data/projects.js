@@ -1,7 +1,7 @@
 const data = [
   {
     id: '1',
-    title: 'Pet-Saathi',
+    title: 'StoryVerse',
     description:
       'A full-stack story publishing platform built with React, Spring Boot, and MySQL. Users can discover, review, and track stories, while writers can create and publish chapters. The platform includes JWT authentication, OTP verification, role-based access, Cloudinary uploads, caching, rate limiting, and email password reset, with production deployment on Vercel, Render, and Aiven.',
     image: {
